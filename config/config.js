@@ -1,9 +1,9 @@
 /* eslint-disable prettier/prettier */
 module.exports = {
-    title: "Bonx",
-    titleTemplate: "Bonx - Gaming React Gatsby Website",
-    description: "React Gatsby",
-    author: "Bonx",
+    title: "AR Course",
+    titleTemplate: "AR Course",
+    description: "BelajAR Makin BeRAsa",
+    author: "arcourse",
     twitterUsername: "@bonx",
     keywords: [
         "bootstrap",
