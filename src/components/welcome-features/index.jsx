@@ -9,7 +9,7 @@ const WelcomeFeatures = ({ title, description, iconImage, bgShapImage }) => {
             <div className="content relative z-10">
                 <GatsbyImage className="mb-10" image={image1} alt={title} />
                 <h3 className="font-bold text-white mb-4">{title}</h3>
-                <p className="text-white leading-7">{description}</p>
+                <p className="text-white leading-5">{description}</p>
             </div>
             <div className="absolute inset-0 z-0">
                 <GatsbyImage image={image2} alt={title} />

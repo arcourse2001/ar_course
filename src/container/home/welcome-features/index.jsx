@@ -4,7 +4,7 @@ import SectionTitle from "../../../components/title";
 import WelcomeFeatures from "../../../components/welcome-features";
 const WelcomeFeaturesArea = ({ data }) => {
     return (
-        <section className="pt-16 md:pt-24">
+        <section className="pt-12 md:pt-24">
             <div className="container px-4">
                 {data?.section_title && (
                     <SectionTitle
@@ -12,12 +12,12 @@ const WelcomeFeaturesArea = ({ data }) => {
                         {...data.section_title}
                     />
                 )}
-                <div className="flex flex-wrap -mx-2 text-center">
+                <div className="flex flex-wrap -mx-3 text-center">
                     {data?.items &&
                         data?.items.map((item) => (
                             <div
                                 key={item.id}
-                                className="w-full md:w-1/2 lg:w-1/2 px-3"
+                                className="w-full md:w-1/5 lg:w-1/2 px-5"
                             >
                                 <WelcomeFeatures
                                     title={item.headings[0].content}
