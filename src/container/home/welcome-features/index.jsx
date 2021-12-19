@@ -12,12 +12,12 @@ const WelcomeFeaturesArea = ({ data }) => {
                         {...data.section_title}
                     />
                 )}
-                <div className="flex flex-wrap -mx-3 text-center">
+                <div className="flex flex-wrap -mx-2 text-center">
                     {data?.items &&
                         data?.items.map((item) => (
                             <div
                                 key={item.id}
-                                className="w-full md:w-1/2 lg:w-1/3 px-4"
+                                className="w-full md:w-1/2 lg:w-1/2 px-3"
                             >
                                 <WelcomeFeatures
                                     title={item.headings[0].content}
