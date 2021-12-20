@@ -4,30 +4,30 @@
     "footer": [
         {
             "id": "footer-1",
-            "text": "It long estabhed fact that reader will ditracted the readable content looking using readable.",
+            "text": "BelajAR Makin BeRAsa",
             "socials": [
                 {
                     "id": 1,
                     "icon": "icofont-facebook",
-                    "link": "https://www.facebook.com",
+                    "link": "https://www.instagram.com/arcourse.id/",
                     "title": "facebook"
                 },
                 {
                     "id": 2,
                     "icon": "icofont-dribbble",
-                    "link": "https://dribbble.com",
+                    "link": "https://www.instagram.com/arcourse.id/",
                     "title": "dribbble"
                 },
                 {
                     "id": 3,
                     "icon": "icofont-youtube-play",
-                    "link": "https://www.youtube.com",
+                    "link": "https://www.instagram.com/arcourse.id/",
                     "title": "youtube"
                 },
                 {
                     "id": 4,
                     "icon": "icofont-twitter",
-                    "link": "https://www.twitter.com",
+                    "link": "https://www.instagram.com/arcourse.id/",
                     "title": "twitter"
                 }
             ]
@@ -39,12 +39,12 @@
                 {
                     "id": "contact_info-21",
                     "title": "Location",
-                    "text": "136 Harding Ave Wheeling, West Virginia"
+                    "text": "Makassar Sulawesi Selatan, Indonesia"
                 },
                 {
                     "id": "contact_info-22",
                     "title": "Phone",
-                    "text": "00 (62) 632 867 4497"
+                    "text": "+62 823-4982-2624 (Sitti Rahma)"
                 }
             ]
         },
@@ -85,27 +85,27 @@
                 {
                     "id": "footer-follow-01",
                     "text": "Copywriting",
-                    "link": "https://dribbble.com"
+                    "link": "https://www.instagram.com/arcourse.id/"
                 },
                 {
                     "id": "footer-follow-02",
                     "text": "Social Media",
-                    "link": "https://dribbble.com"
+                    "link": "https://www.instagram.com/arcourse.id/"
                 },
                 {
                     "id": "footer-follow-03",
                     "text": "Interactive Media",
-                    "link": "https://dribbble.com"
+                    "link": "https://www.instagram.com/arcourse.id/"
                 },
                 {
                     "id": "footer-follow-04",
                     "text": "Motion Design",
-                    "link": "https://dribbble.com"
+                    "link": "https://www.instagram.com/arcourse.id/"
                 },
                 {
                     "id": "footer-follow-05",
                     "text": "Illustration",
-                    "link": "https://dribbble.com"
+                    "link": "https://www.instagram.com/arcourse.id/"
                 }
             ]
         }

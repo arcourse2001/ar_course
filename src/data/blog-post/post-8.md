@@ -1,8 +1,8 @@
 ---
-title: "THE HOT MORE-OR-LESS POINT @21"
-image: { src: "../../data/images/blog/8.jpg", alt: "SEEN APPLE" }
-date: "2021-03-21"
-author: "Admin"
+title: "RUMUS SEGI ENAM"
+image: { src: "../../data/images/blog/6.png", alt: "SEEN APPLE" }
+date: "2021-12-21"
+author: "SHFWAN"
 quote_text: "The use of apps in investment ideas is a great way to enjoy the convenience."
 categories:
     - Legendary

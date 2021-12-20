@@ -1,6 +1,6 @@
 ---
 title: "ADIPISICING ELIT - LOREM IPSUM DOLOR."
-image: { src: "../../data/images/blog/6.jpg", alt: "SEEN APPLE" }
+image: { src: "../../data/images/blog/6.png", alt: "SEEN APPLE" }
 date: "2020-02-20"
 author: "Harold Leonard"
 quote_text: "The use of apps in investment ideas is a great way to enjoy the convenience."

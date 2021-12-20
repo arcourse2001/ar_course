@@ -1,8 +1,8 @@
 ---
-title: "NEW APPS HIC SINT ARE REM, INCIDUNT VITAE."
-image: { src: "../../data/images/blog/4.jpg", alt: "SEEN APPLE" }
-date: "2021-01-21"
-author: "Harold Leonard"
+title: "RUMUS LINGKARAN"
+image: { src: "../../data/images/blog/4.png", alt: "SEEN APPLE" }
+date: "2021-11-21"
+author: "IJLAL"
 quote_text: "The use of apps in investment ideas is a great way to enjoy the convenience."
 categories:
     - Legendary

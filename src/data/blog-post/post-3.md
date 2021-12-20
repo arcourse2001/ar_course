@@ -1,8 +1,8 @@
 ---
-title: "PERFERENDIS HIC SINT ARE REM, INCIDUNT VITAE."
-image: { src: "../../data/images/blog/3.jpg", alt: "SEEN APPLE" }
-date: "2021-01-21"
-author: "Harold Leonard"
+title: "RUMUS LIMAS"
+image: { src: "../../data/images/blog/2.png", alt: "SEEN APPLE" }
+date: "2021-12-21"
+author: "FADHIL"
 quote_text: "The use of apps in investment ideas is a great way to enjoy the convenience."
 categories:
     - Offline Game
