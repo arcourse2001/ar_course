@@ -53,7 +53,7 @@
                             "alt": "LIVE STREAMING"
                         }
                     ],
-                    "description": "Fitur AR (dibatasi), mendapat koin setiap modul, berisi iklan."
+                    "description": "Fitur AR (dibatasi) dan berisi iklan."
                 },
                 {
                     "id": "features-2",
@@ -73,7 +73,7 @@
                             "alt": "LIVE STREAMING"
                         }
                     ],
-                    "description": "Fitur AR (penuh), mendapat koin 4x lebih banyak, bebas iklan"
+                    "description": "Fitur AR (penuh), dan bebas iklan"
                 }
             ]
         },
