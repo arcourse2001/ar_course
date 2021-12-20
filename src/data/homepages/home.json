@@ -100,10 +100,10 @@
                     "headings": [
                         {
                             "level": "h3",
-                            "content": "Kubus"
+                            "content": "Ruang Bangun Kubus"
                         }
                     ],
-                    "link": "https://www.youtube.com/watch?v=qLg6XeyPBkE&t=76s",
+                    "link": "https://www.youtube.com/watch?v=qLg6XeyPBkE&t",
                     "images": [
                         {
                             "src": "../../data/images/team-logo/upcoming-game-thumb1.webp",
@@ -124,7 +124,7 @@
                     "headings": [
                         {
                             "level": "h3",
-                            "content": "Balok"
+                            "content": "Ruang Balok"
                         }
                     ],
                     "link": "https://www.youtube.com/watch?v=qLg6XeyPBkE&t=76s",
