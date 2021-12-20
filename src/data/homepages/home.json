@@ -83,8 +83,8 @@
             "section_title": {
                 "showDescription": true,
                 "align": "center",
-                "heading": "PAKET",
-                "description": "DETAIL PAKET"
+                "heading": "MODUL",
+                "description": "DETAIL MODUL"
             },
             "buttons": [
                 {
@@ -187,8 +187,8 @@
             "section_title": {
                 "showDescription": true,
                 "align": "center",
-                "heading": "POPULAR PACKAGE",
-                "description": "When unknown printer took type and scrambled it to make type specimen book centuries,"
+                "heading": "POPULAR MODUL",
+                "description": "Modul yang Banyak Peminatnya"
             }
         },
         {

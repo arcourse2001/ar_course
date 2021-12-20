@@ -36,7 +36,7 @@ const MatchItem = ({
                             </Link>
                         </h3>
                         <span className="text-primary">
-                            {registeredTeams} Teams Registered
+                            {registeredTeams} Student Registered
                         </span>
                     </div>
                 </div>
@@ -54,7 +54,7 @@ const MatchItem = ({
                         />
                     </span>{" "}
                     <span className="text-secondary block mt-4 lg:mt-8">
-                        Youtube Stream
+                        Stream AR
                     </span>
                 </div>
                 <div className="flex-1 flex justify-center items-center lg:justify-between lg:max-w-sm upcoming_gaming_thumb">
