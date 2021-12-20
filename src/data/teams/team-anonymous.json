@@ -1,16 +1,16 @@
 {
     "id": "team-03",
-    "name": "Anonymous",
+    "name": "SMA",
     "logo": {
         "src": "../../data/images/team-logo/upcoming-game-thumb3.webp",
         "alt": "Anonymous"
     },
 
-    "description": "UI/UX - Designer",
+    "description": "PELAJAR SMA",
     "teamPlayer": [
         {
             "id": "player-01",
-            "name": "Mark Jone",
+            "name": "SMA KELAS 1",
             "images": [
                 {
                     "src": "../../data/images/team-players/players1.webp",
@@ -20,7 +20,7 @@
         },
         {
             "id": "player-02",
-            "name": "Mark Jone",
+            "name": "SMA KELAS 2",
             "images": [
                 {
                     "src": "../../data/images/team-players/players2.webp",
@@ -30,47 +30,7 @@
         },
         {
             "id": "player-03",
-            "name": "Mark Jone",
-            "images": [
-                {
-                    "src": "../../data/images/team-players/players3.webp",
-                    "alt": "Panda"
-                }
-            ]
-        },
-        {
-            "id": "player-04",
-            "name": "Mark Jone",
-            "images": [
-                {
-                    "src": "../../data/images/team-players/players4.webp",
-                    "alt": "Panda"
-                }
-            ]
-        },
-        {
-            "id": "player-05",
-            "name": "Mark Jone",
-            "images": [
-                {
-                    "src": "../../data/images/team-players/players5.webp",
-                    "alt": "Panda"
-                }
-            ]
-        },
-        {
-            "id": "player-06",
-            "name": "Mark Jone",
-            "images": [
-                {
-                    "src": "../../data/images/team-players/players6.webp",
-                    "alt": "Panda"
-                }
-            ]
-        },
-        {
-            "id": "player-07",
-            "name": "Mark Jone",
+            "name": "SMA KELAS 3",
             "images": [
                 {
                     "src": "../../data/images/team-players/players3.webp",

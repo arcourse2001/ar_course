@@ -53,7 +53,7 @@
                             "alt": "LIVE STREAMING"
                         }
                     ],
-                    "description": "Menyediakan modul, fitur AR (dibatasi), mendapat koin setiap modul, berisi iklan."
+                    "description": "Fitur AR (dibatasi), mendapat koin setiap modul, berisi iklan."
                 },
                 {
                     "id": "features-2",
@@ -73,7 +73,7 @@
                             "alt": "LIVE STREAMING"
                         }
                     ],
-                    "description": "Menyediakan modul, fitur AR (penuh), mendapat koin 4x lebih banyak, bebas iklan"
+                    "description": "Fitur AR (penuh), mendapat koin 4x lebih banyak, bebas iklan"
                 }
             ]
         },
@@ -83,15 +83,15 @@
             "section_title": {
                 "showDescription": true,
                 "align": "center",
-                "heading": "UPCOMING MATCH",
-                "description": "When unknown printer took type and scrambled it to make type specimen book centuries,"
+                "heading": "PAKET",
+                "description": "DETAIL PAKET"
             },
             "buttons": [
                 {
                     "id": 1,
                     "size": "lg",
                     "path": "/match",
-                    "content": "Other’s Match "
+                    "content": "Modul Lainnyaa.. "
                 }
             ],
             "items": [
@@ -100,10 +100,10 @@
                     "headings": [
                         {
                             "level": "h3",
-                            "content": "Roar Spring Game 2021"
+                            "content": "Kubus"
                         }
                     ],
-                    "link": "https://www.youtube.com/watch?v=eS9Qm4AOOBY",
+                    "link": "https://www.youtube.com/watch?v=qLg6XeyPBkE&t=76s",
                     "images": [
                         {
                             "src": "../../data/images/team-logo/upcoming-game-thumb1.webp",
@@ -124,10 +124,10 @@
                     "headings": [
                         {
                             "level": "h3",
-                            "content": "Roar Spring Game 2022"
+                            "content": "Balok"
                         }
                     ],
-                    "link": "eS9Qm4AOOBY",
+                    "link": "https://www.youtube.com/watch?v=qLg6XeyPBkE&t=76s",
                     "images": [
                         {
                             "src": "../../data/images/team-logo/upcoming-game-thumb1.webp",
@@ -151,41 +151,31 @@
             "items": [
                 {
                     "id": "funfact-01",
-                    "countNumber": 8697,
+                    "countNumber": 100,
                     "headings": [
                         {
                             "level": "h3",
-                            "content": "TWITCH STREAMS"
+                            "content": "SMA"
                         }
                     ]
                 },
                 {
                     "id": "funfact-02",
-                    "countNumber": 520,
+                    "countNumber": 200,
                     "headings": [
                         {
                             "level": "h3",
-                            "content": "TOTAL GAMES"
+                            "content": "SMP"
                         }
                     ]
                 },
                 {
                     "id": "funfact-03",
-                    "countNumber": 5367,
+                    "countNumber": 300,
                     "headings": [
                         {
                             "level": "h3",
-                            "content": "YOUTUBE STREAMS"
-                        }
-                    ]
-                },
-                {
-                    "id": "funfact-04",
-                    "countNumber": 249,
-                    "headings": [
-                        {
-                            "level": "h3",
-                            "content": "PRO TEAM"
+                            "content": "SD"
                         }
                     ]
                 }
@@ -219,8 +209,8 @@
                             "alt": "Panda"
                         }
                     ],
-                    "name": "Randolph Frazier",
-                    "designation": "Top Rated Gamer",
+                    "name": "SMA KELAS 3",
+                    "designation": "Top Rated Student",
                     "description": "AR Course merupakan media pembelajaran online yang hadir dengan inovasi baru berbasis Augmented Reality yang dikemas dalam bentuk game untuk meningkatkan keterlibatan siswa dalam proses pembelajaran. "
                 },
                 {
@@ -231,8 +221,8 @@
                             "alt": "Panda"
                         }
                     ],
-                    "name": "Johan Puker",
-                    "designation": "Top Rated Gamer",
+                    "name": "SMP KELAS 2",
+                    "designation": "Top Rated Student",
                     "description": "AR Course merupakan media pembelajaran online yang hadir dengan inovasi baru berbasis Augmented Reality yang dikemas dalam bentuk game untuk meningkatkan keterlibatan siswa dalam proses pembelajaran. "
                 }
             ]

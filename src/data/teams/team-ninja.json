@@ -1,15 +1,15 @@
 {
     "id": "team-02",
-    "name": "Ninja",
+    "name": "SMP",
     "logo": {
         "src": "../../data/images/team-logo/upcoming-game-thumb2.webp",
         "alt": "Panda"
     },
-    "description": "UI/UX - Designer",
+    "description": "PELAJAR SMP",
     "teamPlayer": [
         {
             "id": "player-01",
-            "name": "Mark Jone",
+            "name": "SMP KELAS 1",
             "images": [
                 {
                     "src": "../../data/images/team-players/players1.webp",
@@ -19,7 +19,7 @@
         },
         {
             "id": "player-02",
-            "name": "Mark Jone",
+            "name": "SMP 2",
             "images": [
                 {
                     "src": "../../data/images/team-players/players2.webp",
@@ -29,47 +29,7 @@
         },
         {
             "id": "player-03",
-            "name": "Mark Jone",
-            "images": [
-                {
-                    "src": "../../data/images/team-players/players3.webp",
-                    "alt": "Panda"
-                }
-            ]
-        },
-        {
-            "id": "player-04",
-            "name": "Mark Jone",
-            "images": [
-                {
-                    "src": "../../data/images/team-players/players4.webp",
-                    "alt": "Panda"
-                }
-            ]
-        },
-        {
-            "id": "player-05",
-            "name": "Mark Jone",
-            "images": [
-                {
-                    "src": "../../data/images/team-players/players5.webp",
-                    "alt": "Panda"
-                }
-            ]
-        },
-        {
-            "id": "player-06",
-            "name": "Mark Jone",
-            "images": [
-                {
-                    "src": "../../data/images/team-players/players6.webp",
-                    "alt": "Panda"
-                }
-            ]
-        },
-        {
-            "id": "player-07",
-            "name": "Mark Jone",
+            "name": "SMP 3",
             "images": [
                 {
                     "src": "../../data/images/team-players/players3.webp",

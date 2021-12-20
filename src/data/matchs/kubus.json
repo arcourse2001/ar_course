@@ -1,0 +1,64 @@
+{
+    "id": "match-01",
+    "title": "KUBUS",
+    "date": "2021-12-20 13:01:00",
+    "teams": ["Anonymous", "Ninja"],
+    "registeredTeams": "50",
+    "playerNumber": "25",
+    "teamNubmber": "15",
+    "winningPrize": "10",
+    "is_featured": true,
+    "quoteText": "Kita menjumpai banyak benda dalam kegiatan sehari-hari. Ada benda yang berbentuk dua dimensi maupun tiga dimensi.",
+    "liveStreaming": {
+        "id": "watch-live-1",
+        "headings": [
+            {
+                "level": "h3",
+                "content": "BANGUN RUANG KUBUS"
+            }
+        ],
+        "images": [
+            {
+                "src": "../../data/images/live-video/gaming-bg1.webp",
+                "alt": "LIVE STREAMING"
+            }
+        ],
+        "link": "https://www.youtube.com/watch?v=qLg6XeyPBkE&t=76s"
+    },
+    "images": [
+        {
+            "src": "../../data/images/team-logo/game-vs1.webp",
+            "alt": "VS"
+        }
+    ],
+    "content": [
+        {
+            "id": "game-details-per-one",
+            "section": "game-details-per-one",
+            "items": [
+                {
+                    "id": "game-details-1",
+                    "desc": "Kita menjumpai banyak benda dalam kegiatan sehari-hari. Ada benda yang berbentuk dua dimensi maupun tiga dimensi. Ada banyak sekali benda-benda tiga dimensi dalam berbagai bentuk. Terdapat benda yang bentuknya menyerupai kubus dengan sisi-sisinya berbentuk persegi. Pada materi kali ini akan dibahas mengenai bangun ruang kubus, tetapi sebaiknya kalian mengingat materi mengenai bangun persegi."
+                },
+                {
+                    "id": "game-details-2",
+                    "desc": "Bangun ruang tersebut merupakan bangun ruang kubus. Kubus adalah bangun ruang yang dibatasi oleh enam sisi yang berbentuk persegi. Dari gambar di atas, dapatkah kalian menyebutkan ciri-ciri kubus? Kubus mempunyai enam sisi yang berukuran sama (kongruen), mempunyai delapan titik sudut, dan dua belas rusuk yang sama panjang."
+                }
+            ]
+        },
+        {
+            "id": "game-details-per-two",
+            "section": "game-details-per-two",
+            "items": [
+                {
+                    "id": "game-details-1",
+                    "desc": "Benda-benda yang menyerupai kubus banyak kita jumpai. Pernahkah kalian bermain monopoli atau ular tangga? Dalam permainan tersebut kita menggunakan dadu yang memiliki bentuk menyerupai kubus. Dadu memiliki enam sisi yang setiap sisinya memiliki mata dadu 1 - 6. Selanjutnya kita akan membahas mengenai rusuk, diagonal ruang, bidang diagonal, dan jaring-jaring kubus."
+                },
+                {
+                    "id": "game-details-2",
+                    "desc": "Bidang diagonal kubus yang lainnya yaitu bidang diagonal CDEF, ADGF, BCHE, ACGE, dan BFHD. Sehingga terdapat 6 bidang diagonal pada kubus. Bidang diagonal kubus memiliki luas yang sama. Misalkan ukuran panjang rusuk kubus adalah r, maka luas bidang diagonalnya (misal bidang diagonal ABGH)"
+                }
+            ]
+        }
+    ]
+}

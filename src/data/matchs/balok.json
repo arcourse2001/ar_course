@@ -1,0 +1,64 @@
+{
+    "id": "match-02",
+    "title": "BALOK",
+    "date": "2021-12-20 06:01:00",
+    "teams": ["Panda", "Anonymous"],
+    "registeredTeams": "50",
+    "playerNumber": "20",
+    "teamNubmber": "20",
+    "winningPrize": "10",
+    "is_featured": true,
+    "quoteText": "Beberapa macam segiempat yang ada antara lain persegi, persegi panjang, belah ketupat, layang-layang, dan sebagainya.",
+    "liveStreaming": {
+        "id": "watch-live-1",
+        "headings": [
+            {
+                "level": "h3",
+                "content": "BANGUN RUANG BALOK"
+            }
+        ],
+        "images": [
+            {
+                "src": "../../data/images/live-video/gaming-bg1.webp",
+                "alt": "AR BOOK"
+            }
+        ],
+        "link": "https://www.youtube.com/watch?v=qLg6XeyPBkE&t=76s"
+    },
+    "images": [
+        {
+            "src": "../../data/images/team-logo/game-vs1.webp",
+            "alt": "VS"
+        }
+    ],
+    "content": [
+        {
+            "id": "game-details-per-one",
+            "section": "game-details-per-one",
+            "items": [
+                {
+                    "id": "game-details-1",
+                    "desc": "Balok merupakan bangun ruang yang dibatasi oleh tiga pasang sisi sejajar yang berbentuk persegi atau persegi panjang dengan setidaknya terdapat satu pasang sisi sejajar yang memiliki ukuran yang berbeda."
+                },
+                {
+                    "id": "game-details-2",
+                    "desc": "Beberapa rumus yang berkaitan dengan balok yaitu rumus luas permukaan balok dan volume balok. Berikut penjelasannya."
+                }
+            ]
+        },
+        {
+            "id": "game-details-per-two",
+            "section": "game-details-per-two",
+            "items": [
+                {
+                    "id": "game-details-1",
+                    "desc": "Luas bagian I sama dengan luas bagian III, luas bahian II sama dengan luas bagian IV, dan luas bagian V sama dengan luas bagian VI."
+                },
+                {
+                    "id": "game-details-2",
+                    "desc": "Balok merupakan bangun ruang yang dibatasi oleh tiga pasang sisi sejajar yang berbentuk persegi atau persegi panjang dengan setidaknya terdapat satu pasang sisi sejajar yang memiliki ukuran yang berbeda."
+                }
+            ]
+        }
+    ]
+}

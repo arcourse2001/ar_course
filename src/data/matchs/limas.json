@@ -1,0 +1,64 @@
+{
+    "id": "match-03",
+    "title": "LIMAS",
+    "date": "2021-12-20 05:01:00",
+    "teams": ["Panda", "Ninja"],
+    "registeredTeams": "50",
+    "playerNumber": "20",
+    "teamNubmber": "20",
+    "winningPrize": "10",
+    "is_featured": true,
+    "quoteText": "Bangun datar dalam matematika merupakan objek yang berbentuk dua dimensi. Terdapat banyak macam bentuk dalam bangun datar seperti segitiga, segiempat dan segibanyak yang lainnya.",
+    "liveStreaming": {
+        "id": "watch-live-1",
+        "headings": [
+            {
+                "level": "h3",
+                "content": "RUANG LIMAS"
+            }
+        ],
+        "images": [
+            {
+                "src": "../../data/images/live-video/gaming-bg1.webp",
+                "alt": "SKRIT LIVE STREAMING"
+            }
+        ],
+        "link": "https://www.youtube.com/watch?v=qLg6XeyPBkE&t=76s"
+    },
+    "images": [
+        {
+            "src": "../../data/images/team-logo/game-vs1.webp",
+            "alt": "VS"
+        }
+    ],
+    "content": [
+        {
+            "id": "game-details-per-one",
+            "section": "game-details-per-one",
+            "items": [
+                {
+                    "id": "game-details-1",
+                    "desc": "Secara umum, limas dapat diartikan sebagai salah satu bangun ruang sisi datar yang dibatasi oleh sebuah sisi alas yang berupa segibanyak dan sisi-sisi tegak yang berbentuk segitiga."
+                },
+                {
+                    "id": "game-details-2",
+                    "desc": "Titik sudut pada limas segi-n ada sebanyak n + 1. Sebuah titik sudut merupakan titik puncak limas (pertemuan titik-titik sudut dari sisi tegak) dan  n buah sudut merupakan sudut yang terbentuk pertemuan titik sudut segi-n dengan sisi tegak."
+                }
+            ]
+        },
+        {
+            "id": "game-details-per-two",
+            "section": "game-details-per-two",
+            "items": [
+                {
+                    "id": "game-details-1",
+                    "desc": "Bentuk-bentuk menyerupai limas sering dijumpai dalam kehidupan sehari-hari. Salah satu contohnya yaitu piramida. Bentuk piramida menyerupai bangun limas."
+                },
+                {
+                    "id": "game-details-2",
+                    "desc": "Piramida menyerupai bangun limas segiempat. Piramida dan bangun limas keduanya memiliki alas dan sisi tegak yang bertemu pada satu titik yaitu titik puncak limas/puncak piramida."
+                }
+            ]
+        }
+    ]
+}

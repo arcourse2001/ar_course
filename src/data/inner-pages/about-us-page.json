@@ -15,21 +15,21 @@
             "headings": [
                 {
                     "level": "h3",
-                    "content": "ABOUT BONX STUDIO"
+                    "content": "ABOUT AR COURSE"
                 },
                 {
                     "level": "h2",
-                    "content": "bonx is the best gaming studio for all gamer."
+                    "content": "BelajAR Makin BeRAsa"
                 }
             ],
             "items": [
                 {
                     "id": "about-01",
-                    "description": "It is a long established fact that a reader will be distracted the readable content of page when looking at it layout the point using lorem Ipsum is that it has a more-or-less normal distribution."
+                    "description": "AR Course merupakan media pembelajaran online yang hadir dengan inovasi baru berbasis Augmented Reality yang dikemas dalam bentuk game untuk meningkatkan keterlibatan siswa dalam proses pembelajaran. "
                 },
                 {
                     "id": "about-02",
-                    "description": "It is a long established fact that a reader will be distracted the readable content of page when looking at it layout the point using lorem Ipsum is that it has a more-or-less normal distribution."
+                    "description": "Visualisasi Objek 3D dengan eksplor objek dengan leluasa, Mudah digunakan (hanya dengan handphone) atau tablet), Desain dalam bentuk game (tantangan dan reward kepada siswa). Bermain dan belajar, fun fun dan dapat ilmu :)"
                 }
             ],
             "buttons": [
@@ -37,7 +37,7 @@
                     "id": 1,
                     "size": "lg",
                     "path": "/match",
-                    "content": "Play Now"
+                    "content": "Subscribe Now"
                 }
             ]
         },
@@ -47,8 +47,8 @@
             "section_title": {
                 "showDescription": true,
                 "align": "center",
-                "heading": "MEET GAMER TEAM",
-                "description": "When unknown printer took type and scrambled it to make type specimen book centuries,"
+                "heading": "MEET OUR TEAM",
+                "description": "TEAM AR COURSE"
             },
             "items": [
                 {
@@ -59,19 +59,19 @@
                             "alt": "TASIA MANCUSO"
                         }
                     ],
-                    "name": "TASIA MANCUSO",
-                    "designation": "CEO & Founder"
+                    "name": "Fadhil Khusnul Hakim",
+                    "designation": "Hustler"
                 },
                 {
                     "id": "our-team-02",
                     "images": [
                         {
                             "src": "../../data/images/our-teams/team2.webp",
-                            "alt": "ROSALINE EMMONS"
+                            "alt": "Sitti Rahma"
                         }
                     ],
-                    "name": "ROSALINE EMMONS",
-                    "designation": "Team Leader"
+                    "name": "Sitti Rahma",
+                    "designation": "Hacker"
                 },
                 {
                     "id": "our-team-03",
@@ -81,8 +81,19 @@
                             "alt": "WILBURN BEHRENS"
                         }
                     ],
-                    "name": "WILBURN BEHRENS",
-                    "designation": "Team Member"
+                    "name": "Muhammad Ijlal Nurhadi",
+                    "designation": "Hipster"
+                },
+                {
+                    "id": "our-team-04",
+                    "images": [
+                        {
+                            "src": "../../data/images/our-teams/team3.webp",
+                            "alt": "WILBURN BEHRENS"
+                        }
+                    ],
+                    "name": "Ahmad Shafwan",
+                    "designation": "Hipster"
                 }
             ],
             "buttons": [
@@ -90,7 +101,7 @@
                     "id": 1,
                     "size": "lg",
                     "path": "/",
-                    "content": "Join Our Team"
+                    "content": "Meet Our Team"
                 }
             ]
         },
@@ -100,8 +111,8 @@
             "section_title": {
                 "showDescription": false,
                 "align": "left",
-                "heading": "WHAT PEOPLE’S SAY ABOUT GAME STUDIO",
-                "description": "When unknown printer took type and scrambled it to make type specimen book centuries,"
+                "heading": "WHAT PEOPLE’S SAY ABOUT AR Course",
+                "description": ""
             },
             "items": [
                 {
@@ -112,9 +123,9 @@
                             "alt": "Panda"
                         }
                     ],
-                    "name": "Randolph Frazier",
-                    "designation": "Top Rated Gamer",
-                    "description": "Lorem long established fact that a reader will be distracted the readable content of page when looking at it layout the point using lorem Ipsum is that it has a more-or-less normal distribution lette as opposed to using  making it look like readable english, many desktop publishing packages and web page now editors."
+                    "name": "Muhammad Syaiful",
+                    "designation": "Guru SMP",
+                    "description": "Visualisasi Objek 3D dengan eksplor objek dengan leluasa"
                 },
                 {
                     "id": "testimonial-02",
@@ -124,9 +135,9 @@
                             "alt": "Panda"
                         }
                     ],
-                    "name": "Johan Puker",
-                    "designation": "Top Rated Gamer",
-                    "description": "It is a long established fact that a reader will be distracted the readable content of page when looking at it layout the point using lorem Ipsum is that it has a more-or-less normal distribution lette as opposed to using  making it look like readable english, many desktop publishing packages and web page now editors."
+                    "name": "Nurliana",
+                    "designation": "Gurus SMA",
+                    "description": "Mudah digunakan (hanya dengan handphone) atau tablet)"
                 }
             ]
         },
@@ -136,41 +147,31 @@
             "items": [
                 {
                     "id": "funfact-01",
-                    "countNumber": 8697,
+                    "countNumber": 100,
                     "headings": [
                         {
                             "level": "h3",
-                            "content": "TWITCH STREAMS"
+                            "content": "SMA"
                         }
                     ]
                 },
                 {
                     "id": "funfact-02",
-                    "countNumber": 520,
+                    "countNumber": 200,
                     "headings": [
                         {
                             "level": "h3",
-                            "content": "TOTAL GAMES"
+                            "content": "SMP"
                         }
                     ]
                 },
                 {
                     "id": "funfact-03",
-                    "countNumber": 5367,
+                    "countNumber": 300,
                     "headings": [
                         {
                             "level": "h3",
-                            "content": "YOUTUBE STREAMS"
-                        }
-                    ]
-                },
-                {
-                    "id": "funfact-04",
-                    "countNumber": 249,
-                    "headings": [
-                        {
-                            "level": "h3",
-                            "content": "PRO TEAM"
+                            "content": "SD"
                         }
                     ]
                 }

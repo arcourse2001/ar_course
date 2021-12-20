@@ -13,7 +13,7 @@ const OurTeamsArea = ({ data }) => {
                         {...data.section_title}
                     />
                 )}
-                <div className="grid gap-y-6 gap-x-3 md:gap-x-4 xl:gap-9 sm:grid-cols-2 lg:grid-cols-3">
+                <div className="grid gap-y-6 gap-x-3 md:gap-x-4 xl:gap-9 sm:grid-cols-2 lg:grid-cols-4">
                     {data?.items &&
                         data?.items.map((item) => (
                             <OurTeamCard

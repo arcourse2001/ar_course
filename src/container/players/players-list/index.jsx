@@ -5,7 +5,7 @@ const PlayersArea = ({ data }) => {
     return (
         <section className="player-section mb-15 md:pb-80">
             <div className="container">
-                <div className="grid gap-y-10 gap-4 lg:gap-8 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3">
+                <div className="grid gap-y-10 gap-4 lg:gap-8 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4">
                     {data?.items &&
                         data?.items?.map((item) => (
                             <PlayerCard
