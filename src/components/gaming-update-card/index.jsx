@@ -6,13 +6,16 @@ const GamingUpdateCard = () => {
     return (
         <div className="gaming-update-card relative mt-16 md:mt-28">
             <div className="gaming_update_text z-10 relative py-15 px-8 md:py-24 md:px-24 flex justify-between items-center flex-col lg:flex-row">
-                <h2 className="uppercase font-bold text-center md:text-left">
-                    Connect with us <br />
-                    for Augmented Reality Verse.
+                <h2 className="font-bold text-center md:text-left">
+                    BELAJAR KAPANPUN DAN DIMANAPUN <br />
+                     <p className="font-italic"> Jadi waktu santaimu lebih produktif dengan aplikasi AR Course.
+                     </p>
+                
                 </h2>
+               
                 <div className="gaming_update_btn mt-8 lg:mt-0">
                     <Button path="/" size="lg">
-                        CONNECT NOW
+                        DOWNLOAD NOW
                         <StaticImage
                             className="align-middle ml-3 transition-all group-hover:ml-5"
                             src="../../data/images/icons/arrrow-icon.webp"

@@ -13,7 +13,7 @@
             ],
             "texts": [
                 {
-                    "content": "BelajAR Makin BeRAsa."
+                    "content": "Belajar di AR Course itu seru dan menantang. Pelajaran menampilkan ada objek pelajaran yang dilihat di dunia nyata atau lingkungan sekitar. siswa akan diapresiasi atas penyampaian belajarnya. Siswa mendapatkan kesempatan untuk having fun dengan memiliki karakter avatar impian. #BelajAR Makin BeRAsa."
                 }
             ],
             "buttons": [
@@ -21,7 +21,7 @@
                     "id": 1,
                     "size": "lg",
                     "path": "/contact-us",
-                    "content": "Buy Now"
+                    "content": "Register Now"
                 }
             ]
         },
@@ -31,7 +31,7 @@
             "section_title": {
                 "showDescription": false,
                 "align": "center",
-                "heading": "YOU ARE MOST WELCOME IN AR COURSE WORLD.",
+                "heading": "Mengapa kamu akan senang belajar di AR Course",
                 "description": "LIST PACKAGE"
             },
             "items": [
@@ -40,7 +40,7 @@
                     "headings": [
                         {
                             "level": "h3",
-                            "content": "FREE"
+                            "content": "OBJEK 3D"
                         }
                     ],
                     "images": [
@@ -53,27 +53,47 @@
                             "alt": "LIVE STREAMING"
                         }
                     ],
-                    "description": "Fitur AR (dibatasi) dan berisi iklan."
+                    "description": "Visualisasi Objek 3D dengan eksplor objek dengan leluasa"
                 },
                 {
                     "id": "features-2",
                     "headings": [
                         {
                             "level": "h3",
-                            "content": "PREMIUM"
+                            "content": "USER FRIENDLY"
                         }
                     ],
                     "images": [
                         {
                             "src": "../../data/images/features/gaming-world2.webp",
-                            "alt": "GAME NEWS"
+                            "alt": "LIVE STREAMING"
                         },
                         {
                             "src": "../../data/images/features/gaming-world-bg2.webp",
                             "alt": "LIVE STREAMING"
                         }
                     ],
-                    "description": "Fitur AR (penuh), dan bebas iklan"
+                    "description": "Mudah digunakan (hanya dengan handphone) atau tablet)"
+                },
+                {
+                    "id": "features-3",
+                    "headings": [
+                        {
+                            "level": "h3",
+                            "content": "HAVE FUN"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../../data/images/features/gaming-world3.webp",
+                            "alt": "GAME NEWS"
+                        },
+                        {
+                            "src": "../../data/images/features/gaming-world-bg3.webp",
+                            "alt": "LIVE STREAMING"
+                        }
+                    ],
+                    "description": "Desain dalam bentuk game (tantangan dan reward kepada siswa). "
                 }
             ]
         },

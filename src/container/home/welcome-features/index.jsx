@@ -17,7 +17,7 @@ const WelcomeFeaturesArea = ({ data }) => {
                         data?.items.map((item) => (
                             <div
                                 key={item.id}
-                                className="w-full md:w-1/2 lg:w-1/2 px-2"
+                                className="w-full md:w-1/2 lg:w-1/3 px-2"
                             >
                                 <WelcomeFeatures
                                     title={item.headings[0].content}
